@@ -1,7 +1,7 @@
 # **DataFrame y Data Set**
 
-**DataFrame:** Es como una tabla de Excel en Python (con filas y columnas), ideal para manejar y analizar datos.
-**Data Set:** Es simplemente un conjunto de datos. Puede ser pequeño o tan grande que se necesite tecnología especial para procesarlo.
+* **DataFrame:** Es como una tabla de Excel en Python (con filas y columnas), ideal para manejar y analizar datos.
+* **Data Set:** Es simplemente un conjunto de datos. Puede ser pequeño o tan grande que se necesite tecnología especial para procesarlo.
 Tipos: tablas, imágenes, textos o series temporales (datos con fechas).
 
 # **Big Data**
