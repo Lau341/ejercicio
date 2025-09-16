@@ -10,6 +10,8 @@ Tkinter es la biblioteca estándar de Python para crear interfaces gráficas de 
 - Estructura basada en objetos: Utiliza un enfoque basado en objetos y eventos (ej. clic en botones).
 
 ## Ejemplo básico:
+
+```
 import tkinter as tk
 
 ventana = tk.Tk()
@@ -20,3 +22,4 @@ etiqueta = tk.Label(ventana, text="¡Hola, mundo!")
 etiqueta.pack()
 
 ventana.mainloop()
+```
