@@ -69,3 +69,21 @@ open class Animal
   }
 }
 ```
+## Recursividad
+```
+fun factorial(n:int) : int {
+  if (n==0)
+  {
+    return 1
+  }
+  else
+  {
+    return n* factorial (n-1)
+  }
+}
+
+fun main ()
+{
+  println(factorial(5))
+}
+```
